@@ -51,7 +51,7 @@ namespace CinemaKruume
 
         private void Form1_Click(object sender, EventArgs e)
         {
-            _arr[ ,].Text = "text";
+            _arr[ 1,2].Text = "text";
         }
     }
 }
